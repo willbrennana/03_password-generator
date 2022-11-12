@@ -90,12 +90,6 @@ let charset = {
     '.',
   ]
 };
-let input = true;
-let choices = true;
-let hasLowerCase = true;
-let hasUpperCase = true;
-let hasNumerical = true;
-let hasSpecialCharacters = true;
 
 //Add function//
 function generatePassword() {
