@@ -27,6 +27,6 @@ As specified in the Challenge Acceptance Criteria, the generator includes the fo
 
 Below is a screenshot of my latest and greatest:
 
-![](assets/images/PageScreenshot.png)
+![](assets/images/pagescreenshot.png)
 
-To generate your next secure password, visit https://willbrennana.github.io/password-generator/ 
+To generate your next secure password, visit https://willbrennana.github.io/password-generator 
