@@ -29,4 +29,4 @@ Below is a screenshot of my latest and greatest:
 
 ![](./images/PageScreenshot.png)
 
-To generate your next secure password, visit https://willbrennana.github.io/password-generator 
+To generate your next secure password, visit https://willbrennana.github.io/03_password-generator/ 
