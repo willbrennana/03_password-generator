@@ -1,9 +1,9 @@
 # Password Generator
-This was my first time writing in JavaScript and second debugging challenge. 
+This is my first JavaScript and second debugging challenge. 
 
 Debugging typically requires more thinking than doing—as the actual writing took far less time to complete than expected.
 
-Writing the meat and potatoes of the function felt a lot like examining fractals. Accounting for all the conditions in which a random password could be generated led me to a pattern that eventually made completing the function relatively quickly. 
+Writing the meat and potatoes of the JavaScript function felt a lot like examining fractals. Accounting for all the conditions in which a random password could be generated led me to a pattern that eventually made completing the function relatively quickly. 
 
 My biggest "aha" moments were realizing I had to convert the input from a string into a number—then back to a string—and assigning an empty array to the "password" variable at the top of the function to reset the password field.
 
